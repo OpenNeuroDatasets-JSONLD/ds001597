@@ -1,0 +1,5 @@
+{
+        "EchoTime1": 0.00500,
+        "EchoTime2": 0.00746,
+        "IntendedFor":  ["ses-pre/func/sub-19_ses-pre_task-cuedMFM_run-05_bold.nii.gz"]
+}

@@ -1,0 +1,8 @@
+{
+        "EchoTime1": 0.00500,
+        "EchoTime2": 0.00746,
+        "IntendedFor":  ["ses-post/func/sub-16_ses-post_task-cuedMFM_run-05_bold.nii.gz",
+                                        "ses-post/func/sub-16_ses-post_task-cuedMFM_run-06_bold.nii.gz",
+                                        "ses-post/func/sub-16_ses-post_task-cuedMFM_run-07_bold.nii.gz",
+                                        "ses-post/func/sub-16_ses-post_task-cuedMFM_run-08_bold.nii.gz"]
+}
